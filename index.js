@@ -1,1 +1,1 @@
-console.log('hello from type script mariam');
+// try to access prop not exist on object 
